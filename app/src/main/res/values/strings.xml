@@ -939,4 +939,5 @@
     <string name="email_sent">Email sent</string>
     <string name="failed_to_send_email">Failed to send email</string>
     <string name="email_not_verified">Please verify your email to continue</string>
+    <string name="person">Person</string>
 </resources>
