@@ -923,4 +923,5 @@
     <string name="email_sent">Courriel envoyé</string>
     <string name="failed_to_send_email">Échec de l\'envoi du courriel</string>
     <string name="email_not_verified">Veuillez vérifier votre e-mail pour continuer</string>
+    <string name="color">Color</string>
 </resources>
