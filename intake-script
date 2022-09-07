@@ -1,0 +1,11 @@
+#!/bin/sh
+
+branch=$(git symbolic-ref --short HEAD)
+echo "$branch"
+if [[ "$branch" != "develop" ]]; then
+    git pull 
+    crowdin download
+    git add .
+    git commit -m"String Modified from Crowdin"
+    git push 
+fi
