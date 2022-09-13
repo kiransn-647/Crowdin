@@ -942,5 +942,6 @@
     <string name="person">Person</string>
     <string name="region">Region Server</string>
     <string name="population">Population</string>
+    <string name="test">Test String</string>
 
 </resources>
