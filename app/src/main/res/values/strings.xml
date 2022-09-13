@@ -941,4 +941,6 @@
     <string name="email_not_verified">Please verify your email to continue</string>
     <string name="person">Person</string>
     <string name="region">Region</string>
+    <string name="population">Population</string>
+
 </resources>
